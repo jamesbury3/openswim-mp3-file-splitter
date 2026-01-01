@@ -1,4 +1,4 @@
-# OpenSwim MP3 Splitter
+# OpenSwim MP3 File Splitter
 
 This project was created to split up long MP3 files such as audiobooks and podcasts into smaller tracks which can be played on MP3 players such as the Shokz OpenSwim headphones.
 
