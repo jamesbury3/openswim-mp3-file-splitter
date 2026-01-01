@@ -1,7 +1,6 @@
 #!/bin/sh
 
-tempo="1.0"
-segment_length_s=60
+source ./config.sh
 
 for source_file in input/*.mp3; do
     # Skip if no mp3 files found

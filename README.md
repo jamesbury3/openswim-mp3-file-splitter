@@ -8,14 +8,11 @@ This project was created to split up long MP3 files such as audiobooks and podca
 
 ## Configuration
 
-Edit `split_mp3_file.sh` to adjust these settings:
+Edit `config.sh` to adjust these settings:
 
 - `tempo="1.0"` - Playback speed multiplier (e.g., "1.5" for 1.5x speed, "2.0" for 2x)
 - `segment_length_s=60` - Segment length in seconds (default: 60 seconds)
-
-Edit `copy_to_openswim.sh`:
-
-- Set `target_base` to be the directory of your MP3 player when it is plugged in. It is currently set to the default value when using MacOS
+- `target_base="/Volumes/OpenSwim"` - Directory of your MP3 player when it is plugged in (currently set to the default value for macOS)
 
 ## Usage
 

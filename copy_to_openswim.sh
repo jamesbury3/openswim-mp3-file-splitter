@@ -1,7 +1,8 @@
 #!/bin/sh
 
+source ./config.sh
+
 output_base="output"
-target_base="/Volumes/OpenSwim"
 
 # Check if OpenSwim volume is mounted
 if [ ! -d "$target_base" ]; then
