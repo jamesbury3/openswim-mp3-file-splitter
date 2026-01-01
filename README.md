@@ -4,7 +4,7 @@ This project was created to split up long MP3 files such as audiobooks and podca
 
 ## Prerequisites
 
-- Install [ffmpeg](https://ffmpeg.org/):
+- Install [ffmpeg](https://ffmpeg.org/)
 
 ## Configuration
 
